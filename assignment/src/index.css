@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+.commentBg {
+  background: #e9faff;
+  padding: 10px 20px;
+  border-radius: 0px 16px 16px;
+}
+.heading {
+  font-size: 24px;
+  font-weight: 600;
+}
+.mt-2 {
+  margin-top: 20px;
+}
+.commenttitle {
+  color: #727272;
+}
+.bordergrayY {
+  border-top: 1px solid #f3e9e9;
+  border-bottom: 1px solid #f3e9e9;
+}
+.mapper {
+  height: 100%;
+  border: 1px solid #f3e9e9;
+  width: 1px;
+}
